@@ -1,0 +1,93 @@
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    height: 250px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.fidwrapper {
+  display: flex;
+  flex-direction: row;
+  position:relative; left:41px;
+  width: 150px;
+  height: 250px;
+  justify-content: center;
+  text-align: center;
+ 
+}
+.wrapperbig {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 250px;
+    justify-content: center;
+    
+}
+.wrapperrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  text-align: center;
+  width: 100%;
+  
+}
+
+
+.Label {
+  width: 40px;
+  height: 40px;
+
+}
+.btn {
+  margin-right: 5px;
+  margin-left: 5px;
+  
+  border-radius: 25%;
+  width: 60px;
+  height: 40px;
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  font-size: large;
+}
+.btnn {
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 4px;
+  border-radius: 25%;
+  width: 64px;
+  height: 40px;
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  font-size: large;
+}
+.fidbtn {
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 4px;
+  border-radius: 25%;
+  width: 70px;
+  height: 50px;
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  font-size: large;
+}
+.show {
+  border-radius: 25%;
+  width: 40px;
+  height: 40px;
+  color: black;
+  background-color: white;
+  justify-content: center;
+}
+
